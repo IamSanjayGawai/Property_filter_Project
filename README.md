@@ -21,7 +21,9 @@ run app:   npm run dev
 
 
 cards can be filter throgh city name
+
 view all buutons helps to remove filter
+
 show all use to show all cards
 
 
