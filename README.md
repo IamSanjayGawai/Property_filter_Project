@@ -14,7 +14,9 @@ Used Vite
 follow steps to install app
 
 cd react_task_2
+
 install dependencies:  npm install 
+
 run app:   npm run dev
 
 
