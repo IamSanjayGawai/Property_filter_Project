@@ -9,21 +9,17 @@ Currently, two official plugins are available:
 
 
 
-Used Vite
+<h1>Live Link</h1>: https://property-filter-app.netlify.app/
 
-follow steps to install app
+<h5>Clone App</h5>
+https://github.com/IamSanjayGawai/unsplash-imageGallary.git
 
-cd react_task_2
-
-install dependencies:  npm install 
-
-run app:   npm run dev
+git clone https://github.com/IamSanjayGawai/unsplash-imageGallary.git
 
 
-cards can be filter throgh city name
+<h5>Install</h5>
+npm install
 
-view all buutons helps to remove filter
-
-show all use to show all cards
-
+<h5>Start</h5>
+npm run dev
 
