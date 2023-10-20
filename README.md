@@ -12,9 +12,9 @@ Currently, two official plugins are available:
 <h1>Live Link</h1>: https://property-filter-app.netlify.app/
 
 <h5>Clone App</h5>
-https://github.com/IamSanjayGawai/unsplash-imageGallary.git
 
-git clone https://github.com/IamSanjayGawai/unsplash-imageGallary.git
+
+git clone 
 
 
 <h5>Install</h5>
